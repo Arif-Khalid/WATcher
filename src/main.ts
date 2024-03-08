@@ -15,3 +15,4 @@ platformBrowserDynamic()
   .catch((err) => console.error(err));
 
 // test feature category
+// test bug category
