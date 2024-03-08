@@ -14,6 +14,7 @@ platformBrowserDynamic()
   })
   .catch((err) => console.error(err));
 
+// test enhancement category
 // testing chore category
 // test feature category
 // test bug category
